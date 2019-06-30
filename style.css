@@ -57,7 +57,7 @@ font-family: monospace;
 }
 .h3
 {
-text-emphasis-color: aliceblue;
+color: aliceblue;
 position: absolute;
 top: 2;
 left: 50;
